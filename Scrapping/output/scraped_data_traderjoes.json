@@ -1,0 +1,527 @@
+[
+    {
+        "Product Name": "Sonora Style Flour Tortillas",
+        "Category": "Tortillas & Flatbreads",
+        "Price": "$2.99"
+    },
+    {
+        "Product Name": "Cinnamon Twist Danish",
+        "Category": "Sweet Stuff",
+        "Price": "$8.99"
+    },
+    {
+        "Product Name": "Salted Caramel Swirl Danish",
+        "Category": "Sweet Stuff",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Glazed Chocolate Donut Holes",
+        "Category": "Sweet Stuff",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Organic Garlic Bread",
+        "Category": "Loaves, Rolls, Buns",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Snickerdoodle Cookies",
+        "Category": "Sweet Stuff",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Brown Sugar Cardamom Buns",
+        "Category": "Sweet Stuff",
+        "Price": "$4.49"
+    },
+    {
+        "Product Name": "Organic Seeded Bread",
+        "Category": "Sliced Bread",
+        "Price": "$3.69"
+    },
+    {
+        "Product Name": "Organic Ancient Grain & Seed Bread",
+        "Category": "Sliced Bread",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Almost Everything Bagels",
+        "Category": "Bagels",
+        "Price": "$2.69"
+    },
+    {
+        "Product Name": "Plain Bagels",
+        "Category": "Bagels",
+        "Price": "$2.69"
+    },
+    {
+        "Product Name": "Everything Bagels",
+        "Category": "Bagels",
+        "Price": "$2.99"
+    },
+    {
+        "Product Name": "Plain Bagels",
+        "Category": "Bagels",
+        "Price": "$2.49"
+    },
+    {
+        "Product Name": "Cinnamon Raisin Bagels",
+        "Category": "Bagels",
+        "Price": "$2.49"
+    },
+    {
+        "Product Name": "Cinnamon Swirl Raisin Bagels",
+        "Category": "Bagels",
+        "Price": "$2.99"
+    },
+    {
+        "Product Name": "Irish Cheddar Cheese with Irish Whiskey",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$11.99"
+    },
+    {
+        "Product Name": "Irish Porter Cheddar Cheese",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$11.99"
+    },
+    {
+        "Product Name": "Finely Shredded Lite Mexican Style Cheese Blend",
+        "Category": "Slices, Shreds, Crumbles",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Black Garlic Cream Cheese Spread",
+        "Category": "Cream and Creamy Cheeses",
+        "Price": "$2.79"
+    },
+    {
+        "Product Name": "Double Cream Brie",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$7.99"
+    },
+    {
+        "Product Name": "Jersey Gouda",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$12.99"
+    },
+    {
+        "Product Name": "Shaved Parmesan, Romano & Asiago Cheeses",
+        "Category": "Slices, Shreds, Crumbles",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Double Cream French Brie",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$6.49"
+    },
+    {
+        "Product Name": "Double Cream Gouda Cheese",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$9.99"
+    },
+    {
+        "Product Name": "Feta Cheese",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Whipped Cream Cheese",
+        "Category": "Cream and Creamy Cheeses",
+        "Price": "$2.29"
+    },
+    {
+        "Product Name": "Cream Cheese",
+        "Category": "Cream and Creamy Cheeses",
+        "Price": "$1.99"
+    },
+    {
+        "Product Name": "Figgy Cheddar",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$10.99"
+    },
+    {
+        "Product Name": "Dolce Creamy Gorgonzola Style Cheese",
+        "Category": "Cream and Creamy Cheeses",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Gran Capitan Hard Cheese with Black Olive Paste",
+        "Category": "Wedges, Wheels, Loaves, Logs",
+        "Price": "$13.99"
+    },
+    {
+        "Product Name": "Small Curd Cottage Cheese",
+        "Category": "Yogurt, etc.",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Apricot Mango Greek Whole Milk Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.99"
+    },
+    {
+        "Product Name": "Guava Passion Fruit Greek Whole Milk Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.99"
+    },
+    {
+        "Product Name": "Raspberries & Cream Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.69"
+    },
+    {
+        "Product Name": "Vanilla & Cream Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.69"
+    },
+    {
+        "Product Name": "Meyer Lemon & Cream Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.69"
+    },
+    {
+        "Product Name": "Blueberries & Cream Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.69"
+    },
+    {
+        "Product Name": "Icelandic Style Skyr Lowfat Raspberry Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$1.19"
+    },
+    {
+        "Product Name": "Icelandic Style Skyr Lowfat Cherry Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$1.19"
+    },
+    {
+        "Product Name": "Icelandic Style Skyr Lowfat Vanilla Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$1.19"
+    },
+    {
+        "Product Name": "Vegan Heavy Whipping Cream Alternative",
+        "Category": "Milk & Cream",
+        "Price": "$4.49"
+    },
+    {
+        "Product Name": "Non-Dairy Cinnamon Bun Oat Creamer",
+        "Category": "Milk & Cream",
+        "Price": "$1.99"
+    },
+    {
+        "Product Name": "Organic Heavy Whipping Cream",
+        "Category": "Milk & Cream",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Honey Crisp Apple Cinnamon Greek Yogurt",
+        "Category": "Yogurt, etc.",
+        "Price": "$0.99"
+    },
+    {
+        "Product Name": "Sour Cream",
+        "Category": "Yogurt, etc.",
+        "Price": "N/A"
+    },
+    {
+        "Product Name": "Sous Vide Turkey Breast Tenderloins",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$8.99"
+    },
+    {
+        "Product Name": "Sous Vide Chicken Thighs",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$8.99"
+    },
+    {
+        "Product Name": "Strawberry Overnight Oats",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$1.99"
+    },
+    {
+        "Product Name": "Cauliflower Slims",
+        "Category": "Wraps, Burritos & Sandwiches",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Egg Salad",
+        "Category": "Salads, Soups & Sides",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Spring Rolls with Tofu",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$5.49"
+    },
+    {
+        "Product Name": "Spring Rolls with Shrimp",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Hardwood Smoked Pulled Pork",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$8.99"
+    },
+    {
+        "Product Name": "Hardwood Smoked Pulled Chicken",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$8.99"
+    },
+    {
+        "Product Name": "Braised Pork Shoulder",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$7.99"
+    },
+    {
+        "Product Name": "Roasted Cauliflower and Orzo",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Peanut Butter Overnight Oats",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$1.99"
+    },
+    {
+        "Product Name": "Apple Overnight Oats",
+        "Category": "Entr\u00e9es & Center of Plate",
+        "Price": "$1.99"
+    },
+    {
+        "Product Name": "Veggies & Greens Salad Kit",
+        "Category": "Salads, Soups & Sides",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Roasted Hatch Chile & Jalape\u00f1o Cheese Dip",
+        "Category": "Salads, Soups & Sides",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Mini Chocolate Chip Croissant Swirls",
+        "Category": "Cool Desserts",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Dulce de Leche Ice Cream",
+        "Category": "Cool Desserts",
+        "Price": "$3.79"
+    },
+    {
+        "Product Name": "Japanese Style Fried Rice",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$3.79"
+    },
+    {
+        "Product Name": "Breaded Mozzarella Cheese Sticks",
+        "Category": "Appetizers",
+        "Price": "$5.49"
+    },
+    {
+        "Product Name": "Korean Style Beef Short Ribs",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$13.99"
+    },
+    {
+        "Product Name": "Hot & Spicy Chicken Wings",
+        "Category": "Appetizers",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Chiles Rellenos con Queso",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Papas Rellenas",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Spicy Meat Pizza",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Chocolate Hold the Cone! Mini Ice Cream Cones",
+        "Category": "Cool Desserts",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "4 Almond Croissants",
+        "Category": "Cool Desserts",
+        "Price": "$5.49"
+    },
+    {
+        "Product Name": "4 Chocolate Croissants",
+        "Category": "Cool Desserts",
+        "Price": "$5.49"
+    },
+    {
+        "Product Name": "Vegetable Bird's Nests",
+        "Category": "Appetizers",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Steamed Chicken Soup Dumplings",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Organic Roasted Vegetable Pizza",
+        "Category": "Entr\u00e9es & Sides",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "High Protein Organic Tofu",
+        "Category": "Plant-based Protein",
+        "Price": "$2.69"
+    },
+    {
+        "Product Name": "Sliced Uncured Pepperoni",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Wild Caught Cod Fillets",
+        "Category": "Fish & Seafood",
+        "Price": "$10.99"
+    },
+    {
+        "Product Name": "Blackened Salmon Seasoned Boneless Fillet",
+        "Category": "Fish & Seafood",
+        "Price": "$10.99"
+    },
+    {
+        "Product Name": "Vegan Pepperoni",
+        "Category": "Plant-based Protein",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Uncured Pastrami",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$6.49"
+    },
+    {
+        "Product Name": "Chicken Meatballs",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "All Natural Shaved Beef Steak",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$10.99"
+    },
+    {
+        "Product Name": "Wild Sockeye Smoked Salmon",
+        "Category": "Fish & Seafood",
+        "Price": "$7.99"
+    },
+    {
+        "Product Name": "Uncured Bacon Porchetta Pork Roast",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$9.99"
+    },
+    {
+        "Product Name": "Fully Cooked Spiral Sliced Uncured Half Ham",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Finocchiona Uncured Salami",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Spanish Style Uncured Chorizo",
+        "Category": "Beef, Pork & Lamb",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "BBQ Seasoned Spatchcocked Chicken",
+        "Category": "Chicken & Turkey",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Sun-Dried Tomato & Basil Chicken Tenders",
+        "Category": "Chicken & Turkey",
+        "Price": "$7.49"
+    },
+    {
+        "Product Name": "Savory Squares",
+        "Category": "Chips, Crackers & Crunchy Bites",
+        "Price": "$3.99"
+    },
+    {
+        "Product Name": "Vanilla Cookie Thins",
+        "Category": "Candies & Cookies",
+        "Price": "$4.49"
+    },
+    {
+        "Product Name": "Brown Sugar Boba Mochi",
+        "Category": "Candies & Cookies",
+        "Price": "$2.99"
+    },
+    {
+        "Product Name": "Gourmet Jelly Beans",
+        "Category": "Candies & Cookies",
+        "Price": "$2.49"
+    },
+    {
+        "Product Name": "Gourmet Jelly Beans Large Bag",
+        "Category": "Candies & Cookies",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "Brown Butter Salted Caramel Mini BIscotti",
+        "Category": "Candies & Cookies",
+        "Price": "$4.99"
+    },
+    {
+        "Product Name": "White Cheddar Popcorn",
+        "Category": "Chips, Crackers & Crunchy Bites",
+        "Price": "$2.49"
+    },
+    {
+        "Product Name": "Honey Roasted Peanuts",
+        "Category": "Nuts, Dried Fruits, Seeds",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Spicy Tempura Seaweed Snack",
+        "Category": "Chips, Crackers & Crunchy Bites",
+        "Price": "$3.29"
+    },
+    {
+        "Product Name": "Roasted & Salted Rosemary Marcona Almonds",
+        "Category": "Nuts, Dried Fruits, Seeds",
+        "Price": "$5.99"
+    },
+    {
+        "Product Name": "Cheery Lemon Animal Crackers",
+        "Category": "Candies & Cookies",
+        "Price": "$0.99"
+    },
+    {
+        "Product Name": "Peas & Carrots Sour Gummy Candies",
+        "Category": "Candies & Cookies",
+        "Price": "$1.29"
+    },
+    {
+        "Product Name": "Dark Choclolate Covered Mini Pretzels",
+        "Category": "Candies & Cookies",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Milk Chocolate Covered Mini Pretzels",
+        "Category": "Candies & Cookies",
+        "Price": "$3.49"
+    },
+    {
+        "Product Name": "Hold The Cone Tips",
+        "Category": "Candies & Cookies",
+        "Price": "$3.99"
+    }
+]
